@@ -1,2 +1,1 @@
-# mds-android
-MyDigitalSchool - TPs Android
+# MyDigitalSchool - TPs Android
