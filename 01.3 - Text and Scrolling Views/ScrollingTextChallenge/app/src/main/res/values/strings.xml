@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Scrolling Text</string>
+    <string name="app_name">Scrolling Text Challenge</string>
     <string name="article_title">Article Title</string>
     <string name="article_subtitle">Article Subtitle</string>
     <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius tristique sapien, at tincidunt sapien pellentesque id. Aliquam erat volutpat. Curabitur tempor blandit dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet ipsum eleifend velit convallis bibendum quis vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sit amet ultrices dui. Nunc euismod ex sit amet dolor faucibus, hendrerit commodo nulla sollicitudin. Donec tincidunt dignissim est et consequat. Nulla dignissim, leo a interdum commodo, nulla nisl placerat dui, ac venenatis purus massa quis neque. Proin feugiat placerat libero at suscipit. Quisque ut erat tempor, viverra tellus nec, scelerisque dolor.\n\n
