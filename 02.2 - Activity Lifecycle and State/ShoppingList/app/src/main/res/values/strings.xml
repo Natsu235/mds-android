@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="my_cart">> My Cart</string>
+    <string name="cart_empty">Your cart is empty.</string>
+    <string name="add_item">Add Item</string>
+    <string name="reset">Reset</string>
+    <string name="items_list">> Items List</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="apple">Apple</string>
+    <string name="confirm">Confirm</string>
+</resources>

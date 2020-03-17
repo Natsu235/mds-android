@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string-array name="names_array">
+        <item>Roland</item>
+        <item>Lilith</item>
+        <item>Axton</item>
+        <item>Gaige</item>
+        <item>Salvador</item>
+        <item>Maya</item>
+    </string-array>
 </resources>

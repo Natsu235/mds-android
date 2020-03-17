@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Two Activities Lifecycle</string>
+    <string name="send_button">Send</string>
+    <string name="message_header">Message Received</string>
+    <string name="message_text">Message Text</string>
+    <string name="message_hint">Type a message here.</string>
+    <string name="reply_button">Reply</string>
+    <string name="reply_header">Reply Received</string>
+    <string name="reply_text">Reply Text</string>
+    <string name="reply_hint">Type a reply here.</string>
+</resources>

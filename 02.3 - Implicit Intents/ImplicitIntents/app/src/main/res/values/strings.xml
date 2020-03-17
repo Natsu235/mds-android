@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="website_text">https://openclassrooms.com/fr/dashboard</string>
+    <string name="website_button">Open Website</string>
+    <string name="location_text">MyDigitalSchool (Rennes)</string>
+    <string name="location_button">Open Location</string>
+    <string name="share_text">"This is a test message."</string>
+    <string name="share_button">Share Text</string>
+</resources>
