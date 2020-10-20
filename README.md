@@ -1,7 +1,6 @@
 # MyDigitalSchool - TPs Android
 
 ## Android Developer Fundamentals
-https://codelabs.developers.google.com/android-training/
 
 TPs du 16/03/2020
 * 01.1 - Android Studio and Hello World
